@@ -17,8 +17,8 @@ Developer | React, Next.js & n8n Enthusiast
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-eight-nu.vercel.app/api?username=Maxboy997&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=Maxboy997&layout=compact&theme=radial)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxboy997&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxboy997&layout=compact&theme=radial)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxboy997&theme=radial)
 
