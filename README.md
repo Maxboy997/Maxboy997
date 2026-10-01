@@ -17,9 +17,12 @@ Developer | React, Next.js & n8n Enthusiast
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxboy997&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxboy997&layout=compact&theme=radial)
+![GitHub Stats](https://github-readme-stats-eight-nu.vercel.app/api?username=Maxboy997&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=Maxboy997&layout=compact&theme=radial)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxboy997&theme=radial)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxboy997&theme=radial)
 <!--
 **Maxboy997/Maxboy997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
