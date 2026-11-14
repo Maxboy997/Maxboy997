@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad 👋
+# Hi there, I'm Muhammad 
 
 Developer | React, Next.js & n8n Enthusiast
 
